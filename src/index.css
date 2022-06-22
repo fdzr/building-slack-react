@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+
+    --slack-color: #3f0f40;
+
+}
+
+.slack-color {
+    background-color: var(--slack-color);
+}
